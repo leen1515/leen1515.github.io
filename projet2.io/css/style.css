@@ -702,8 +702,8 @@ a {
         text-align: center;
     }
 
-    .headerBooki-top-navBooki-ul-li-a:hover {
-        border-top: 2px solid #0065fc;
+    .headerBooki-top-navBooki-ul-li-a:active {
+        border-color:#0065fc;
 
 
     }
